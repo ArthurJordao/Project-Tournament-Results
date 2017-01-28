@@ -1,0 +1,21 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+connect	tournament.py	/^def connect():$/;"	kind:function	line:9
+countPlayers	tournament.py	/^def countPlayers():$/;"	kind:function	line:32
+deleteMatches	tournament.py	/^def deleteMatches():$/;"	kind:function	line:14
+deletePlayers	tournament.py	/^def deletePlayers():$/;"	kind:function	line:23
+playerStandings	tournament.py	/^def playerStandings():$/;"	kind:function	line:48
+psycopg2	tournament.py	/^import psycopg2$/;"	kind:namespace	line:6
+registerPlayer	tournament.py	/^def registerPlayer(name):$/;"	kind:function	line:37
+reportMatch	tournament.py	/^def reportMatch(winner, loser):$/;"	kind:function	line:63
+swissPairings	tournament.py	/^def swissPairings():$/;"	kind:function	line:72
+testCount	tournament_test.py	/^def testCount():$/;"	kind:function	line:11
+testPairings	tournament_test.py	/^def testPairings():$/;"	kind:function	line:106
+testReportMatches	tournament_test.py	/^def testReportMatches():$/;"	kind:function	line:71
+testStandingsBeforeMatches	tournament_test.py	/^def testStandingsBeforeMatches():$/;"	kind:function	line:45
+tournament.py	tournament.py	1;"	kind:file	line:1
+tournament_test.py	tournament_test.py	1;"	kind:file	line:1
