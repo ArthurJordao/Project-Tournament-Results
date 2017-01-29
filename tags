@@ -8,11 +8,11 @@ connect	tournament.py	/^def connect():$/;"	kind:function	line:9
 countPlayers	tournament.py	/^def countPlayers():$/;"	kind:function	line:32
 deleteMatches	tournament.py	/^def deleteMatches():$/;"	kind:function	line:14
 deletePlayers	tournament.py	/^def deletePlayers():$/;"	kind:function	line:23
-playerStandings	tournament.py	/^def playerStandings():$/;"	kind:function	line:48
+playerStandings	tournament.py	/^def playerStandings():$/;"	kind:function	line:59
 psycopg2	tournament.py	/^import psycopg2$/;"	kind:namespace	line:6
-registerPlayer	tournament.py	/^def registerPlayer(name):$/;"	kind:function	line:37
-reportMatch	tournament.py	/^def reportMatch(winner, loser):$/;"	kind:function	line:63
-swissPairings	tournament.py	/^def swissPairings():$/;"	kind:function	line:72
+registerPlayer	tournament.py	/^def registerPlayer(name):$/;"	kind:function	line:43
+reportMatch	tournament.py	/^def reportMatch(winner, loser):$/;"	kind:function	line:81
+swissPairings	tournament.py	/^def swissPairings():$/;"	kind:function	line:96
 testCount	tournament_test.py	/^def testCount():$/;"	kind:function	line:11
 testPairings	tournament_test.py	/^def testPairings():$/;"	kind:function	line:106
 testReportMatches	tournament_test.py	/^def testReportMatches():$/;"	kind:function	line:71
